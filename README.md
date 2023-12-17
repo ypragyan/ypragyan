@@ -29,5 +29,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![snake animation](https://github.com/ypragyan/ypragyan/blob/output/github-contribution-grid-snake2.svg)
 
