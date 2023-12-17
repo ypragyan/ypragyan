@@ -17,3 +17,21 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+### Hi there 👋
+![Snake animation](https://github.com/ypragyan/ypragyan/blob/output/github-contribution-grid-snake.svg)
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br><br>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ypragyan&ignore=HTML,CSS&theme=algolia&showicons=true" align="center" />
+    <br>
+    <br>
+    <br>
+   <!-- <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/> -->
+  </a>
+</div>
+
+
