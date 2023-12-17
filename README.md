@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/ypragyan/ypragyan/blob/output/github-contribution-grid-snake.svg)
 
 
 <div id="header" align="center">
@@ -30,4 +29,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+![snake animation](https://github.com/ypragyan/ypragyan/blob/output/github-contribution-grid-snake2.svg)
 
