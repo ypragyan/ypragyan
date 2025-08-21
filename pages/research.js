@@ -3,10 +3,10 @@ import Head from "next/head";
 export default function Research() {
   const researchProjects = [
     {
-      title: "Space Weather Prediction",
+      title: " ",
       image: "/space-weather.jpg", 
-      collaborators: "South Windsor Public Schools Research Program",
-      description: "Implemented machine learning models to predict space weather events by analyzing solar imagery and space weather data. Discovered unique pre-flaring patterns across different solar wavelengths using explainable AI techniques. This research focuses on developing early warning systems for solar storms and geomagnetic disturbances that can affect satellite communications and power grids."
+      collaborators: " ",
+      description: " "
     }
   ];
 
