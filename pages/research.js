@@ -13,7 +13,7 @@ export default function Research() {
   return (
     <>
       <Head>
-        <title>pragyan's corner</title>
+        <title>pragyan&apos;s corner</title>
       </Head>
       <div className="min-h-screen bg-white dark:bg-black text-black dark:text-white transition-colors duration-300 py-16">
         <div className="max-w-6xl mx-auto px-6">

@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>pragyan's corner</title>
+        <title>pragyan&apos;s corner</title>
         <meta name="description" 
         content="Pragyan Yadav | UConn student researching Physics and Computer Science. Interested in AI, simulations, solar physics, and philosophy." />
 
