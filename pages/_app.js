@@ -6,12 +6,11 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>SWTSA</title>
-        <meta
-          name="description"
-          content="SWTSA is the technology club at South Windsor High School."
-        />
-        <link rel="icon" href="/favicon3.ico" />
+        <title>pragyan's corner</title>
+        <meta name="description" 
+        content="Pragyan Yadav | UConn student researching Physics and Computer Science. Interested in AI, simulations, solar physics, and philosophy." />
+
+        <link rel="icon" href="icon.ico" />
       </Head>
       <Layout>
         <Component {...pageProps} />
