@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="description" 
         content="Pragyan Yadav | UConn student researching Physics and Computer Science. Interested in AI, simulations, solar physics, and philosophy." />
 
-        <link rel="icon" href="icon.ico" />
+        <link rel="icon" href="./icon.ico" />
       </Head>
       <Layout>
         <Component {...pageProps} />
