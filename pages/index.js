@@ -17,7 +17,7 @@ export default function Home() {
           {/* Photo */}
           <div className="w-56 h-56 md:w-64 md:h-64 rounded-full border-4 border-blue-400 overflow-hidden bg-gray-200 dark:bg-gray-800 mb-8 md:mb-0 md:mr-12 flex-shrink-0">
             <Image
-              src="/PIC.jpg"
+              src="./PIC.jpg"
               alt="Me"
               width={256}
               height={256}
